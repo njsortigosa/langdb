@@ -1,0 +1,17 @@
+/* 
+    Document   : main
+    Created on : Nov 6, 2014, 9:52:03 PM
+    Author     : Nonie John B. Sortigosa
+    Description:
+        Additional Global Styles
+*/
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #f5f5f5;
+}
+
